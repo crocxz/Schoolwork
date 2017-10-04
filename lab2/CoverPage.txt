@@ -1,0 +1,23 @@
+                         CPSC 213  -  Summer of  2014
+                               Assignment  _3
+                          =========================
+STUDENTS:    
+NAME                         ST. NO         UNIX ID         EMAIL
+===================         =========      ===========     ===========
+ William Xu                  25750084		z3j8		williamwlxu@gmail.com	
+Juliane dela Cruz 	     43121102		y8y7		jadelacruz159@gmail.com
+
+DECLARATION
+============
+By typing our names  and student numbers  in the above table, we certify that the work in the attached assignment was performed ONLY BY US except the parts that have been properly acknowledged in the assignment and below.
+
+In addition, we indicate that we are fully aware of the rules and consequences of plagiarism, as set forth by the Department of Computer Science and the University of British Columbia and specifically we have read and understood the academic policies at http://www.ugrad.cs.ubc.ca/~cs213/summer13t2/Info/Policies.html .
+
+ACKNOWLEDGMENTS
+================
+Thank you Dr. Tsiknis and our lab TAs.
+  
+
+ ANSWERS TO ASSIGNMENT QUESTIONS (if any)
+========================================  
+
